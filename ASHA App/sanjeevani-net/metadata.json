@@ -1,6 +1,0 @@
-{
-  "name": "Sanjeevani-Net",
-  "description": "ASHA & ANM maternal healthcare portal with vitals recording, CDSS risk assessment, and closed-loop emergency referral tracking.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
